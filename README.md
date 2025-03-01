@@ -3,6 +3,8 @@
 This is a simple word guessing game built using **Streamlit**. The objective of the game is to guess the hidden word 
 by suggesting letters within a limited number of attempts.
 
+[Link of app](https://holy-day-game-u6cetx9zbjgcv4zvagaqfx.streamlit.app/)
+
 ## Features
 
 - **Random Word to Guess**: A preset word ("PAKISTAN" in this case) that the player must guess.
